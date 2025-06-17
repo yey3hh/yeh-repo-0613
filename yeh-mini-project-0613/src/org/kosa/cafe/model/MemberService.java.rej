@@ -1,0 +1,6 @@
+diff a/yeh-mini-project-0613/src/org/kosa/cafe/model/MemberService.java b/yeh-mini-project-0613/src/org/kosa/cafe/model/MemberService.java	(rejected hunks)
+@@ -1,4 +0,0 @@
+-package org.kosa.cafe.model;
+-
+-public class MemberService {
+-}
